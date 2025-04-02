@@ -1,0 +1,19 @@
+# Xcode user data
+*.xcuserdata
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+*.xcworkspace
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+
+# SwiftPM
+.build/
+.swiftpm/
+
+# Derived data
+DerivedData/
+
+# macOS system files
+.DS_Store
